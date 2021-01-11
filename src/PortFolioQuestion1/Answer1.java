@@ -1,7 +1,7 @@
 package PortFolioQuestion1;
 
 import java.util.Scanner;
-
+// 포트폴리오 문제 1번
 public class Answer1 {
 
 	public static void main(String[] args) {
