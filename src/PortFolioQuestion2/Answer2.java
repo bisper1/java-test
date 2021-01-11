@@ -4,6 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 
+// 포트폴리오 문제 2번
 public class Answer2 {
 
 	public static void main(String[] args) {
