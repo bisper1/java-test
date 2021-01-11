@@ -30,7 +30,7 @@ public class Bear extends GameObject {
 			y++;
 			
 			if (y >= Game.MAX_Y) {
-				y = Game.MAX_y - 1;
+				y = Game.MAX_Y - 1;
 			}
 			break;
 			
